@@ -1,2 +1,2 @@
 # splunk
-splunk repository
+splunk repository sample and testing
